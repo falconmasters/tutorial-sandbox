@@ -81,7 +81,7 @@ const App = () => {
           estado={usuario}
           cambiarEstado={cambiarUsuario}
           tipo="text"
-          label="Hola"
+          label="Usuario"
           placeholder="john123"
           name="usuario"
           leyendaError="El usuario tiene que ser de 4 a 16 dígitos y solo puede contener numeros, letras y guion bajo."
